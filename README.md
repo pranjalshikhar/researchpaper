@@ -7,3 +7,5 @@ Communication TechnologiesNetwork TechnologiesMobile ApplicationsIC4S 2019IC4S P
 
 Publisher Name - 
 Springer, Singapore
+
+![Alt text](relative/path/to/Springerlinklogo.jpg?raw=true "Title")
